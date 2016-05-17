@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[qonnect cockpit]]></title>
         <description><![CDATA[qonnect cockpit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/qonnect-cockpit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 18:08:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 May 2016 18:12:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/qonnect-cockpit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c536ea8-cfe0-48bd-8c35-e2827f3f391b.png">]]></description>
+            <link>https://thegrid.ai/qonnect-cockpit/7990880c-b840-42ef-89ed-32d39e9d2680/index.html</link>
+            <guid isPermaLink="false">7990880c-b840-42ef-89ed-32d39e9d2680</guid>
+            <pubDate>Tue, 17 May 2016 18:12:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>A mobile customer mobile engagement platform. A private and anonymous communication channel for you customers to interact with your business. Delivery of personalized campaigns on the mobile devices of your customers. That’s connect.</p>]]></description>
-            <link>undefineda-mobile-customer-mobile-engagement-platform-a-private-and/index.html</link>
+            <link>https://thegrid.ai/qonnect-cockpit/a-mobile-customer-mobile-engagement-platform-a-private-and/index.html</link>
             <guid isPermaLink="false">ce0de287-8fd9-421b-b672-7ecd1554b340</guid>
             <pubDate>Tue, 17 May 2016 18:08:21 GMT</pubDate>
         </item>
