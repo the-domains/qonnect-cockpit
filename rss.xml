@@ -4,8 +4,15 @@
         <description><![CDATA[qonnect cockpit]]></description>
         <link>https://thegrid.ai/qonnect-cockpit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 18:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 18:16:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/qonnect-cockpit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Very much to the delight of our development team we make regular maintenance updates of the qonnect cockpit. Issues like HTML markup error are fixed that have no direct impact on the of the cockpit, but for developers these things are ugly as hell and must be fixed. Period. We took the opportunity and did some changes to the user interface too. We updated the sidebar and think that the changes are really cool. We hope that you like them too.</p>]]></description>
+            <link>https://thegrid.ai/qonnect-cockpit/very-much-to-the-delight-of-our-development-team-we-make-reg/index.html</link>
+            <guid isPermaLink="false">fb14150a-f633-44ba-9c72-292aa9893569</guid>
+            <pubDate>Tue, 17 May 2016 18:16:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>You might have wondered how many times users actually click on a call to action in qNews. Until now, you could only use URL-shortening tools to get this kind of information. Using URL-shortener is quite cumbersome: copy link, open URL-shortener and create short-link, copy short-link, open connect cockpit and paste short-link into the call to action field. Now, this works without the detour of external URL-shorteners: just copy the link into the call to action field and we take care of the rest. The number of clicks is displayed next the the likes/favorites in the corresponding qNews. As bonus, you’ll get the information how many of your customers are Android users and how many use iPhones. This is so cool, isn’t is :-)?</p>]]></description>
